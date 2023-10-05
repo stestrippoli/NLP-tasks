@@ -5,6 +5,8 @@ from utils import *
 task = "robotprompt"
 #openai.api_key = "<YOUR_API_KEY>"
 
+openai.api_key = "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"
+
 def gpt(context, request):
     completion = openai.ChatCompletion.create(
           model = "gpt-3.5-turbo-16k", 
@@ -146,6 +148,6 @@ def stats():
 if __name__ == "__main__":
   
   
-  prompt_evaluation(5,4)
+  prompt_evaluation(5,5)
   stats()
   

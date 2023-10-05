@@ -1,22 +1,4 @@
 /chatgpt.py
 /img
 /__pycache__
-/reply-roer-onboarding-hr
-/codegen/analysis.txt
-/codeopt/analysis.txt
-/codeunderstanding/analysis.txt
-/csv/analysis.txt
-/q&a/analysis.txt
-/robotprompt/analysis.txt
-/summarization/analysis.txt
-/testo.txt
-/robotprompt/old
-/robotprompt/requests/temporall
-/robotprompt/results/manual/
-/robotprompt/results/temporal/
-/robotprompt/results/seen/
-/robotprompt/results/unseen/
-/robotprompt/script copy.py
-/robotprompt/results/general/context_6
-prova.py
-seenold
+/pharma
